@@ -1,0 +1,9 @@
+{
+    "name": "SparkClient",
+    "website": {
+        "url": "localhost:4321/", 
+        "premiumweb": "https://premium.sparkdev.online",
+        "port": 8080,
+        "_note": "nacho"  
+    }
+}
